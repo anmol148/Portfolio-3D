@@ -1,1 +1,3 @@
-AddType text/jsx .jsx
+types {
+  text/jsx jsx;
+}
